@@ -435,6 +435,18 @@ dl.index dd,
   border-image: url("https://64.media.tumblr.com/17fce7f6a8cbd61067eb2d28c290adc8/7fa12c05ca858dab-5b/s1280x1920/2baa8b24ce7efc8c971319dd025e6c274ffc3ea7.png") 30 round;
 }
 
+.stats-index.dashboard.region .actions.module {
+margin-top: 2em;
+}
+
+dl.statistics.meta.group {
+background: url("https://64.media.tumblr.com/eb17f6916f329d206e7c83c2a5c43f98/2ff582fea26b7b91-67/s500x750/03d0c6c520cd38847fc13d8ac20157c9c8229f79.png");
+background-position-x: right;
+background-position-y: bottom;
+background-repeat: no-repeat;
+background-size: 250px 232px;
+}
+
 a.tag,
 a.tag:visited,
 a.tag:link {
