@@ -1,7 +1,3 @@
-# medieval-times-AO3-skin
-Illuminated parchment Ao3 site skin
-
-
 CREATING A NEW SITE SKIN
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
