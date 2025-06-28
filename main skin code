@@ -346,7 +346,8 @@ fieldset.warnings {
   box-shadow: none;
   background: url("https://64.media.tumblr.com/6fdc92a6e98b450d03f65bb1538acb0e/7fa12c05ca858dab-83/s500x750/86dae0593b29adb575c45a9a2cbfb7c763a6d8bb.png");
   background-position-x: right;
-  background-size: contain;
+background-position-y: top;
+  background-size: 30%;
   background-repeat: no-repeat;
 }
 
