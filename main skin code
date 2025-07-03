@@ -7,10 +7,12 @@
   border: 2px solid #ab3740;
 }
 
+@media (min-width: 700px) {
 #header #search .button,
 #header #search .submit,
 #header #search .text {
   display: none;
+}
 }
 
 body {
