@@ -188,7 +188,7 @@ a:link.current,
 }
 
 #workskin p:first-child:first-letter,
-li.blurb p:first-child:first-letter {
+li.blurb .summary p:first-child:first-letter {
   color: #903;
   float: left;
   font-family: Georgia, serif;
