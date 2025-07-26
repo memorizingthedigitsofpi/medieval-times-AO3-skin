@@ -1,0 +1,21 @@
+/* Create a new work skin and paste in this code. Add the skin to whatever work you want to look like a medieval parchment. No further steps needed. */
+
+#workskin {
+  background: url("https://64.media.tumblr.com/b435c5f4f58a551bc2a04d3baf0966ec/28df75b586705f4b-be/s1280x1920/5212a899bdbd5f65ccc29ed438adbf5c1fb1f3ee.png");
+}
+
+#workskin p:first-child:first-letter {
+  color: #903;
+  float: left;
+  font-family: Georgia, serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+#workskin {
+  border: 50px solid transparent;
+  border-image: url("https://64.media.tumblr.com/5b41b48ccce874ea293e7503e1dce1fd/ad2373978cc6ca4e-52/s640x960/422f4d1e1b61066e11832919423caba615241c68.png") 25% round;
+}
