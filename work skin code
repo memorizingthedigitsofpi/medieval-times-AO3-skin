@@ -4,6 +4,11 @@
   background: url("https://64.media.tumblr.com/b435c5f4f58a551bc2a04d3baf0966ec/28df75b586705f4b-be/s1280x1920/5212a899bdbd5f65ccc29ed438adbf5c1fb1f3ee.png");
 }
 
+div.preface {
+  margin: 0;
+  border-bottom: 2px solid #000;
+}
+
 #workskin p:first-child:first-letter {
   color: #903;
   float: left;
