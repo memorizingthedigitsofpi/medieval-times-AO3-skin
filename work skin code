@@ -4,12 +4,13 @@
   background: url("https://64.media.tumblr.com/b435c5f4f58a551bc2a04d3baf0966ec/28df75b586705f4b-be/s1280x1920/5212a899bdbd5f65ccc29ed438adbf5c1fb1f3ee.png");
 }
 
-div.preface {
+#workskin div.preface {
   margin: 0;
   border-bottom: 2px solid #000;
 }
 
-#workskin p:first-child:first-letter {
+#workskin p:first-child:first-letter,
+#workskin #chapters .userstuff p:first-child:first-letter {
   color: #903;
   float: left;
   font-family: Georgia, serif;
@@ -23,4 +24,15 @@ div.preface {
 #workskin {
   border: 50px solid transparent;
   border-image: url("https://64.media.tumblr.com/5b41b48ccce874ea293e7503e1dce1fd/ad2373978cc6ca4e-52/s640x960/422f4d1e1b61066e11832919423caba615241c68.png") 25% round;
+  color: #2a2a2a;
+}
+
+#workskin .preface {
+  background: transparent;
+  color: #2a2a2a;
+}
+
+#workskin .preface a,
+#workskin .group .heading {
+  color: #2a2a2a;
 }
